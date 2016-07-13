@@ -1,0 +1,11 @@
+# Oliver Bracht
+
+
+**Implementing R in old economy companies: From proof-of-concept to production**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Implementing-R-in-old-economy-companies-From-proof-of-concept-to-production/player")  
+```
+
+In old economy companies, the introduction of R is typically a button-up process that follows a pattern of three major stages of maturity: At the first stage, guerrilla projects use R parallel to the "official" IT environment. The usage of R is often initiated by interns, student assistants or newly recruited graduates. At the second stage, when the results of the guerrilla projects attract the attention of business departments, R is used as analytic language in proof-of-concept projects. When the proof-of-concept has been successful, the outcome shall be transferred to the production system. At this stage R is being introduced "officially" to the IT environment. While the first and second level of maturity usually do not cause any major problems, the step to the third level is most crucial for the long term success of the implementation of R. This talk will focus on how to master the switch from proof-of-concept to production. It will show based on real world experiences typical road blocks as well as the most important success factors.
+

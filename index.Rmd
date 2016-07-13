@@ -1,0 +1,28 @@
+--- 
+title: "useR2016 Conference Videos"
+author: "Andrew Clark"
+date: "12th July 2016"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: pssguy/books
+description: "This is a minimal example testing deployment including chart, interactive table and a selection of videos"
+---
+
+# Introduction
+
+This acts as a repository for my favourite video talks from the recent [useR2016 conference](http://user2016.org/)
+along with the ability to view any of the talks via a clickable table.
+It is almost certainly not the best method of presentation but is a trial run for creating and deploying interactive books to [bookdown.org](https://bookdown.org/)
+
+
+## Author {-}
+[Andrew Clark](http://www.twitter.com/pssguy) is an independent R developer based in North Vancouver
+He has for many years supplied statistical sports data on the web but with the interactive opportunities arising from the shiny framework and the ability to swiftly create interesting visualizations via dashboards has branched out into many different areas. An introduction to his work can be found under the
+[mytinyshinys umbrella](https://mytinyshinys.shinyapps.io/dashboard/)
+
+
+

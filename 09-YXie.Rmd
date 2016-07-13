@@ -1,0 +1,10 @@
+# Yihui Xie (subbed by Hadley W.)
+
+
+**Authoring Books with R Markdown**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Authoring-Books-with-R-Markdown/player")  
+```
+
+Markdown is a simple and popular language for writing. R Markdown (http://rmarkdown.rstudio.com) has made it really easy to author documents that contain R code, and convert these documents to a variety of output formats, including PDF, HTML, Word, and presentations. There are still some missing pieces in the toolchain, especially when writing long-form articles and books, such as cross-references, automatic numbering of figures/tables, multiple-page HTML output and a navigation system, and so on. The R package bookdown has solved all these problems for several types of output formats, such as HTML, PDF, EPUB and MOBI e-books. The visual style of the book is customizable. When the output format is HTML, the book may contain interactive components, such as HTML widgets and Shiny apps, so readers may interact with certain examples in the book in real time (screenshots of these examples will be automatically taken and used when the output format is non-HTML). In this talk, we will give a quick tour through the bookdown package, and show how to quickly get started with writing a book. We will also talk about various options for editing, hosting, and publishing a book. Our goal is that authors can focus as much as possible on the content of the book, instead of spending too much time on any complicated non-portable syntax of authoring languages, or tools for converting books to different output formats. In other words, ``one ring to rule them all.''

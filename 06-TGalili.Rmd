@@ -1,0 +1,15 @@
+# Tal Galili
+
+
+**Heatmaps in R: Overview and best practices**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Heatmaps-in-R-Overview-and-best-practices/player")  
+```
+
+A heatmap is a popular graphical method for visualizing high-dimensional data, in which a table of numbers are encoded as a grid of colored cells. The rows and columns of the matrix are ordered to highlight patterns and are often accompanied by dendrograms. Heatmaps are used in many fields for visualizing observations, correlations, missing values patterns, and more.
+ 
+This talk will provide an overview of R functions and packages for creating useful and beautiful heatmaps. Attention will be given to data pre-processing, choosing colors for the data-matrix via {viridis}, producing thoughtful dendrograms using {dendextend} and {colorspace}, while ordering the rows and columns with {DendSer} (and {seriation}). The talk will cover both static as well as the newly available interactive plotting engines using packages such as {gplots}, {d3heatmap}, {ggplot2} and {plotly}.
+ 
+The speaker is the author of the {dendextend} R package, a co-author of the {d3heatmap} package, and blogs at www.r-statistics.com.
+

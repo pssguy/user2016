@@ -1,0 +1,11 @@
+# Javier Luraschi
+
+
+**Importing Modern data into R**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Importing-modern-data-into-R/player")  
+```
+
+This talk explores modern trends in data storage formats and the tools, packages and best practices to import this data into R. We will start with a quick recap of the existing tools and packages for importing data into R: readr, readxl, haven, jsonlite, xml2, odbc and jdbc. Afterwards, we will discuss modern data formats and the emerging tools we can use today. We will explore sparkr, mongolite and the role of specialized packages like fitbitScraper and getSymbols. This talk will wrap up by assessing gaps and exploring future trends in this space.
+

@@ -1,0 +1,10 @@
+# Ian Lyttle
+
+
+**Using Shiny modules to build more-complex and more-manageable apps**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Using-Shiny-modules-to-build-more-complex-and-more-manageable-apps/player")  
+```
+
+The release of Shiny 0.13 includes support for modules, allowing you to build Shiny apps more quickly and more reliably. Furthermore, using Shiny modules makes it easier for you to build more-complex apps, because the interior complexity of each module is hidden from the level of the app. This allows you, as a developer, to focus on the complexity of the app at the system-level, rather than at the module-level. For example, there are open-source shiny modules that: read a time-indexed csv file then parse it into a dataframe, visualize a time-indexed dataframe using dygraphs, and write a dataframe to a csv file to be downloaded. Modules are simply collections of functions that can be organized into, and called from, packages. The primary focus of this presentation will be on how modules from the "shinypod" package can be assembled to into "simple" shiny apps. As well, there will be demonstrations of more-complex apps built using modules. In this case, Shiny apps are built as interfaces to web-services, allowing you to evaluate the usefulness of suites of web-services without having to be immediately concerned with the API clients. Time permitting, there could be some discussion of how Shiny modules are put together.

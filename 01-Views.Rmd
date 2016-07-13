@@ -1,0 +1,20 @@
+# Video Views
+
+At the time of writing, there are 155 individual talks, plus lightning session, to be found on the [conference website](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016?sort=status&direction=asc#theSessions)
+
+The viewing information is heavily weighted to certain topics with the top three presenters garnering 40% of total views. Hover points for exact percentage
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://mytinyshinys.shinyapps.io/user2016FlexDB/#cumulative")  
+```
+
+
+The table lists all available videos by title and speaker. Make a selection, click on row and scroll down to view talk
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://mytinyshinys.shinyapps.io/user2016FlexDB/#all")  
+```

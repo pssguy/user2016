@@ -1,0 +1,11 @@
+# JJ Allaire 
+*Founder RStudio*
+
+**Notebooks with R Markdown**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Notebooks-with-R-Markdown/player")  
+```
+
+Notebook interfaces for data analysis have compelling advantages including the close association of code and output and the ability to intersperse narrative with computation. Notebooks are also an excellent tool for teaching and a convenient way to share analyses. As an authoring format, R Markdown bears many similarities to traditional notebooks like Jupyter and Beaker, but it has some important differences. R Markdown documents use a plain-text representation (markdown with embedded R code chunks) which creates a clean separation between source code and output, is editable with the same tools as for R scripts (.Rmd modes are available for Emacs, Vim, Sublime, Eclipse, and RStudio), and works well with version control. R Markdown also features a system of extensible output formats that enable reproducible creation of production-quality output in many formats including HTML, PDF, Word, ODT, HTML5 slides, Beamer, LaTeX-based journal articles, websites, dashboards, and even full length books. In this talk we'll describe a new notebook interface for R that works seamlessly with existing R Markdown documents and displays output inline within the standard RStudio .Rmd editing mode. Notebooks can be published using the traditional Knit to HTML or PDF workflow, and can also be shared with a compound file that includes both code and output, enabling readers to easily modify and re-execute the code. Building a notebook system on top of R Markdown carries forward its benefits (plain text, reproducible workflow, and production quality output) while enabling a richer, more literate workflow for data analysis.
+

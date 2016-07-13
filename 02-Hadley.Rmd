@@ -1,0 +1,12 @@
+# Hadley Wickham
+*Chief Scientist, RStudio*
+
+
+**Towards a grammar of interactive graphics**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Towards-a-grammar-of-interactive-graphics/player")  
+```
+
+I announced ggvis in 2014, but there has been little progress on it since. In this talk, I'll tell you a little bit about what I've been working on instead (data ingest, purrr, multiple models, ...) and tell you my plans for the future of ggvis. The goal is for 2016 to be the year of ggvis, and I'm going to be putting a lot of time into ggvis until it's a clear replacement for ggplot2. I'll talk about some of the new packages that will make this possible (including ggstat, ggeom, and gglayout), and how this work is also going to improve ggplot2.
+
