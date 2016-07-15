@@ -1,0 +1,12 @@
+# Where Next
+
+ * The book files can be found on [github](https://github.com/pssguy/user2016) so that if you clone it for your own personal book other videos could be substituted in place of mine. I plan to upload the underlying dataset and code for scraping website and producing output
+
+ * You can also access this via the edit button in the toolbar at top of each page if you want to point out errors or make suggestion 
+
+ * For more information on bookdown
+
+    + [bookdown on github](https://github.com/rstudio/bookdown)
+     + [Authoring Books with R Markdown](https://bookdown.org/yihui/bookdown/)
+      + [A Yihui Xie Webinair](https://www.rstudio.com/resources/webinars/)
+

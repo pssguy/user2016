@@ -1,0 +1,10 @@
+# Ryan Hafen
+
+
+**rbokeh: A Simple, Flexible, Declarative Framework for Interactive Graphics**
+```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/rbokeh-A-Simple-Flexible-Declarative-Framework-for-Interactive-Graphics/player")  
+```
+
+The rbokeh package is an R interface to the Bokeh visualization library. The interface is designed to be simple but flexible, allowing the expressiveness required for rapid generation of ad hoc statistical plots, while providing simple yet useful interactive capabilities such as tooltips and zoom/pan with nearly no additional effort, and additional customized interactivity with a little more effort. In this talk I will introduce rbokeh and show examples of using it to create a wide variety of interactive displays, including Shiny applications and Trelliscope.

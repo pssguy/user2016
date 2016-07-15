@@ -4,12 +4,14 @@ author: "Andrew Clark"
 date: "12th July 2016"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
+cover-image: "logo.png"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: pssguy/books
+github-repo: pssguy/user2016
 description: "This is a minimal example testing deployment including chart, interactive table and a selection of videos"
+
 ---
 
 # Introduction

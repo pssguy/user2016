@@ -6,7 +6,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">user2016 Videos</a></li>
       after: |
-        <li><a href="mailto:agcur@rogers.com?Subject=user2016%20Conference" target="blank">Contact Andrew Clark</a></li>
+        <li><a href="mailto:agcur@rogers.com?Subject=user2016%20Conference" target="blank">Contact me</a></li>
     edit:
       link: https://github.com/pssguy/user2016/edit/master/%s
 
