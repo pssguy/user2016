@@ -4,21 +4,16 @@ author: "Andrew Clark"
 date: "15th July 2016"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
-cover-image: "images/logo.png"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: pssguy/user2016
-description: "This is a first attempt, testing deployment including chart, interactive table and a selection of videos
-from the useR2016 conference"
-url: "https\://bookdown.org/aclark/useR2016videos/"
+cover-image: "images/logo.png"
+github-repo: "pssguy/user2016"
+description: "Chart, interactive table and a selection of videos from the useR2016 conference"
+url: "https://bookdown.org/aclark/useR2016videos/"
 ---
 
-
-
-cover-image: "images/cover.png"
-url: "https\://bookdown.org/yihui/bookdown-demo/"
 
 # Introduction
 
