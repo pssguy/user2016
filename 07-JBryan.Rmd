@@ -2,7 +2,7 @@
 *UBC*
 
 
-**Towards a grammar of interactive graphics**
+**Spreadsheets**
 ```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
 
 knitr::include_url("https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/jailbreakr-Get-out-of-Excel-free/player")  
