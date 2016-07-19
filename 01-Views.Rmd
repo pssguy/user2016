@@ -16,5 +16,5 @@ The table lists all available videos by title and speaker. Make a selection, cli
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
 
-knitr::include_url("https://mytinyshinys.shinyapps.io/user2016FlexDB/#all")  
+knitr::include_url("https://mytinyshinys.shinyapps.io/user2016FlexDB/#all", height= "850px")  
 ```
