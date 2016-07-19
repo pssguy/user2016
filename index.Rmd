@@ -8,14 +8,18 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-cover-image: "images/logo.png"
-github-repo: "pssguy/user2016"
 description: "Chart, interactive table and a selection of videos from the useR2016 conference"
-url: "https://bookdown.org/aclark/useR2016videos/"
+#url: "https\://bookdown.org/aclark/useR2016videos/"
+github-repo: pssguy/user2016
+#cover-image: "images/logo.png"
 ---
 
 
 # Introduction
+
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
+knitr::include_graphics('images/logo.png')
+```
 
 This acts as a repository for some of my favourite video talks from the recent [useR2016 conference](http://user2016.org/) along with the ability to view any of the offerings via a clickable table.
 
